@@ -7,6 +7,6 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 小伙子 · 傘 的个人插件源（同时支持 roothide 隐根 / rootless 无根）
 MD5Sum:
- ed0e307a6f934ae09f9b0aa66bd0be1f 1308 Packages
+ 173b0db3bfbf7ac789017dff260bdae6 6379 Packages
 SHA256:
- 75dc112d4b790aed943c2c4acbe411a3245f07c5c5c265f74b5f6ae3a2c1cd7b 1308 Packages
+ 38388e5479338780639875f447176f3ad3eeff464a392adbd123bd48e40892e5 6379 Packages
