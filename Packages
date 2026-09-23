@@ -1,0 +1,29 @@
+Package: com.local.camhide
+Name: camhide
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: hide status bar privacy indicators (mic/camera dots) on demand
+Maintainer: local
+Author: local
+Section: Tweaks
+Depends: mobilesubstrate
+Installed-Size: 4
+Filename: pool/com.local.camhide_1.0.0_iphoneos-arm64e.deb
+Size: 4540
+MD5sum: c729bd2e52c4367dabbdb766b66a42b1
+SHA256: cd3234944a6ec041a073eae8d5a0de71f63b8ec98c5903b2408e4ea332ce0846
+
+Package: cn.hermes.iflyskin
+Name: 键盘皮肤工作室
+Version: 3.9.0
+Architecture: iphoneos-arm64e
+Description: 讯飞输入法键盘皮肤编辑器 v1.1（roothide）。手机上直接看/改皮肤：皮肤列表（标出当前键盘正在用的那个）→ 外观样式按中文含义分组（如"拼音区背景""工具栏按钮颜色""气泡"），点着改颜色（取色器/十六进制）；图片映射；文本模式可直接编辑整份 ini；所有改动前自动备份 .bak_时间戳。纯本地、零网络、零常驻。入口：讯飞输入法里的悬浮小球「肤」。
+Maintainer: Hermes
+Author: 傘
+Section: roothide插件
+Depends: ellekit
+Installed-Size: 113
+Filename: pool/cn.hermes.iflyskin_3.4.0_iphoneos-arm64e.deb
+Size: 116156
+MD5sum: c94738aeb9d51db6a0edc1bf0705c411
+SHA256: d82a2d7e3166f3d4aec5bdf70d328cb7f965499b360fbba6bf1e531fe0f5b257
