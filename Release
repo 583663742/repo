@@ -1,12 +1,17 @@
 Origin: 小伙子
 Label: 小伙子 · 傘 的插件源
 Suite: stable
-Version: 1.0
+Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 小伙子 · 傘 的个人插件源（同时支持 roothide 隐根 / rootless 无根）
+Date: Wed, 23 Sep 2026 22:32:09 GMT
 MD5Sum:
- 173b0db3bfbf7ac789017dff260bdae6 6379 Packages
+ a3cbc86c57018be0cf9ee24edd13d8bd 6389 Packages
+ 5f6d71fab188060c91ee7d36147b3008 3219 Packages.gz
+ 3a3c2de024bdf8f4aae01f40a8eaa4b7 3137 Packages.bz2
 SHA256:
- 38388e5479338780639875f447176f3ad3eeff464a392adbd123bd48e40892e5 6379 Packages
+ 4bc411bf8eda0ca6ab0236009f9ee493c3e337cf4d0ee0e1c0dfc0c191ed0080 6389 Packages
+ edb08333c231b45725e898f11b89ae7bcd2bbf079451561ff3ae76e174ab4ba2 3219 Packages.gz
+ 016ebc222977191aa79d05846eaf942b9e39c0cac5adfc93ef3ffe7310841f7c 3137 Packages.bz2
