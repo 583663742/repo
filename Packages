@@ -1,17 +1,17 @@
 Package: cn.hermes.iflyskin
-Name: 键盘皮肤工作室
-Version: 3.9.0-+debug
+Name: IflySkin
+Version: 4.5.0-+debug
 Architecture: iphoneos-arm64e
-Description: 讯飞输入法键盘皮肤编辑器 v1.1（roothide）。手机上直接看/改皮肤：皮肤列表（标出当前键盘正在用的那个）→ 外观样式按中文含义分组（如"拼音区背景""工具栏按钮颜色""气泡"），点着改颜色（取色器/十六进制）；图片映射；文本模式可直接编辑整份 ini；所有改动前自动备份 .bak_时间戳。纯本地、零网络、零常驻。入口：讯飞输入法里的悬浮小球「肤」。
+Description: 讯飞输入法皮肤与键盘布局可视化编辑器（外观颜色/字体/图片 + 键位布局）
 Maintainer: Hermes
-Author: 傘
-Section: roothide插件
-Depends: ellekit
-Installed-Size: 114
-Filename: pool/cn.hermes.iflyskin_3.9.0-+debug_iphoneos-arm64e.deb
-Size: 117524
-MD5sum: 1fc916d6d8dfe8ee527e3fb33cda3381
-SHA256: a4733553748bc3e8269d86b6683070089eb59901afa2e85b1bd5b36033d77975
+Author: Hermes
+Section: Tweaks
+Depends: mobilesubstrate
+Installed-Size: 397
+Filename: pool/cn.hermes.iflyskin_4.5.0-+debug_iphoneos-arm64e.deb
+Size: 124404
+MD5sum: 06ca1031f6255ff4a9fd1d1b92ed151b
+SHA256: 69ce27e63bf359350bd147ef3a6da663b657809d0cb58bd2445eb7d243b44b1f
 
 Package: cn.llld.biaoji
 Name: 截图标记
