@@ -6,12 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 小伙子 · 傘 的个人插件源（同时支持 roothide 隐根 / rootless 无根）
-Date: Wed, 23 Sep 2026 22:34:09 GMT
+Date: Wed, 23 Sep 2026 23:13:32 GMT
 MD5Sum:
- a3cbc86c57018be0cf9ee24edd13d8bd 6389 Packages
- 5f6d71fab188060c91ee7d36147b3008 3219 Packages.gz
- 3a3c2de024bdf8f4aae01f40a8eaa4b7 3137 Packages.bz2
+ 039930b22d605b7b083fdd57a434819b 6004 Packages
+ 71e50aa9020b65285ce1f722fa18e7ba 2991 Packages.gz
+ c287526adb63b9b28b16f074b65fd1a6 2961 Packages.bz2
 SHA256:
- 4bc411bf8eda0ca6ab0236009f9ee493c3e337cf4d0ee0e1c0dfc0c191ed0080 6389 Packages
- edb08333c231b45725e898f11b89ae7bcd2bbf079451561ff3ae76e174ab4ba2 3219 Packages.gz
- 016ebc222977191aa79d05846eaf942b9e39c0cac5adfc93ef3ffe7310841f7c 3137 Packages.bz2
+ f426c1694cc5349b66e71dffe3247900738c1e5c28e8861e67e04c4301b3ce09 6004 Packages
+ 4c382636d5121aa946a51a708487ea71fe9b1648ee76044740b6fdd3b0644e46 2991 Packages.gz
+ 157fa21d2e0e93e3e1a3419780bf161d50b268b80eb47a8866fda5618f187b2f 2961 Packages.bz2
