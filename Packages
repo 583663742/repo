@@ -12,6 +12,7 @@ Filename: pool/cn.hermes.iflyskin_3.9.0-+debug_iphoneos-arm64e.deb
 Size: 117524
 MD5sum: 1fc916d6d8dfe8ee527e3fb33cda3381
 SHA256: a4733553748bc3e8269d86b6683070089eb59901afa2e85b1bd5b36033d77975
+
 Package: cn.llld.biaoji
 Name: 截图标记
 Version: 1.30.12
@@ -26,6 +27,7 @@ Filename: pool/cn.llld.biaoji_1.30.12_iphoneos-arm64e.deb
 Size: 50828
 MD5sum: 728fa008a8835afe40722cf53ec63c6b
 SHA256: 24cf0d4e416034e5c5d58c63dc1028946a56293fcf4f97bfceade227cf6c01a3
+
 Package: cn.wxfix.miyouhelper
 Name: MiYouFix 微信助手修复
 Version: 1.12.0-+debug
@@ -40,6 +42,7 @@ Filename: pool/cn.wxfix.miyouhelper_1.12.0-+debug_iphoneos-arm64e.deb
 Size: 16434
 MD5sum: 469ce5e571b63746826e96120e88e70d
 SHA256: 9ae1f2a98b47199b6ff7658a242172539856776d4574f13d53cf6369de9e9486
+
 Package: com.example.qqfloatball
 Name: QQFloatBall
 Version: 1.4.3
@@ -54,6 +57,7 @@ Filename: pool/com.example.qqfloatball_1.4.3_iphoneos-arm64e.deb
 Size: 49720
 MD5sum: 63abdbb084ae6ebbf266676b298a86de
 SHA256: 70fae3493d1619c1682743e8b495e1d59df031e7d3e70a394036f95ee049f82a
+
 Package: com.hermes.qqcarplus
 Name: QQCarPlus
 Version: 39.2
@@ -68,6 +72,7 @@ Filename: pool/com.hermes.qqcarplus_39.2_iphoneos-arm64e.deb
 Size: 126806
 MD5sum: 2629e34ca7cd05cdc842c82c1d0d0309
 SHA256: c725111fd88befc246f6517503b850ccf5ea59587d1e2ef60c6cf3386993f542
+
 Package: com.hermes.settingsjump
 Name: SettingsJump 设置精确跳转
 Version: 3.0
@@ -82,6 +87,7 @@ Filename: pool/com.hermes.settingsjump_3.0_iphoneos-arm64e.deb
 Size: 13704
 MD5sum: 16038e5837820fd15058ee12b6ee55ac
 SHA256: 8295076fb48a96c859c91fc90ef553b17f751c2bfd6761b741270d45f5d26142
+
 Package: com.jiang.jiangtheos
 Name: JiangTheos
 Version: 1.0.0-10+debug
@@ -96,6 +102,7 @@ Filename: pool/com.jiang.jiangtheos_1.0.0-10+debug_iphoneos-arm64e.deb
 Size: 83898
 MD5sum: 65521d8ba56f8ae93164105ba93863fd
 SHA256: 0f5dafdb65db0244ae931109ae943867e631d2a978f09d687960430d4d9f5dc1
+
 Package: com.local.camhide
 Name: camhide
 Version: 1.0.0-+debug
@@ -110,6 +117,7 @@ Filename: pool/com.local.camhide_1.0.0-+debug_iphoneos-arm64e.deb
 Size: 4540
 MD5sum: c729bd2e52c4367dabbdb766b66a42b1
 SHA256: cd3234944a6ec041a073eae8d5a0de71f63b8ec98c5903b2408e4ea332ce0846
+
 Package: com.qqlevel.assistant
 Name: QQ等级助手
 Version: 1.0.1-3
@@ -124,6 +132,7 @@ Filename: pool/com.qqlevel.assistant_1.0.1-3_iphoneos-arm64e.deb
 Size: 134322
 MD5sum: 73dd8053efe606a39b165278c7782ee5
 SHA256: 8ac238cdeea8ac63acbe015f9ab0ae82dbd49268e761c88c041335e5bc1f868c
+
 Package: com.sugiuta.sumusicwidget
 Name: SUMusicWidget
 Version: 1.1-+debug
@@ -138,3 +147,4 @@ Filename: pool/com.sugiuta.sumusicwidget_1.1-+debug_iphoneos-arm64.deb
 Size: 46346
 MD5sum: a612b49a65b1b27a9c46d163a2ca735f
 SHA256: 6f2c9e3f5397b0d9583778527956e8dcbef7aa0aa7321c43ce17d847ba50af65
+
