@@ -6,7 +6,7 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 小伙子 · 傘 的个人插件源（同时支持 roothide 隐根 / rootless 无根）
-Date: Wed, 23 Sep 2026 22:32:09 GMT
+Date: Wed, 23 Sep 2026 22:34:09 GMT
 MD5Sum:
  a3cbc86c57018be0cf9ee24edd13d8bd 6389 Packages
  5f6d71fab188060c91ee7d36147b3008 3219 Packages.gz
