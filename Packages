@@ -1,6 +1,104 @@
+Package: cn.hermes.iflyskin
+Name: 键盘皮肤工作室
+Version: 3.9.0-+debug
+Architecture: iphoneos-arm64e
+Description: 讯飞输入法键盘皮肤编辑器 v1.1（roothide）。手机上直接看/改皮肤：皮肤列表（标出当前键盘正在用的那个）→ 外观样式按中文含义分组（如"拼音区背景""工具栏按钮颜色""气泡"），点着改颜色（取色器/十六进制）；图片映射；文本模式可直接编辑整份 ini；所有改动前自动备份 .bak_时间戳。纯本地、零网络、零常驻。入口：讯飞输入法里的悬浮小球「肤」。
+Maintainer: Hermes
+Author: 傘
+Section: roothide插件
+Depends: ellekit
+Installed-Size: 114
+Filename: pool/cn.hermes.iflyskin_3.9.0-+debug_iphoneos-arm64e.deb
+Size: 117524
+MD5sum: 1fc916d6d8dfe8ee527e3fb33cda3381
+SHA256: a4733553748bc3e8269d86b6683070089eb59901afa2e85b1bd5b36033d77975
+Package: cn.llld.biaoji
+Name: 截图标记
+Version: 1.30.12
+Architecture: iphoneos-arm64e
+Description: 给Snapper 或stayShot插件增加标记功能，快速对图进行箭头，打码，复制，方块，涂鸦，保存等，免去了装第三方软件或者跳转程序的繁琐，14-17可用。基于原版1.3增强（原版核心一字未动）：新增圆形/直线/双箭头/荧光笔/编号/放大镜工具、24色扩展颜色面板、系统取色器、马赛克强度调节、保存自动复制、记忆上次工具颜色。改屏幕图标在插件目录下/Library/MobileSubstrate/DynamicLibraries/biaoji/pencil.tip.crop.circle.png，设置里图标名为Settings-biaoji.png
+Maintainer: 来了老弟 X: h_h_x_t
+Author: 小伙子
+Section: rootless插件
+Depends: mobilesubstrate
+Installed-Size: 49
+Filename: pool/cn.llld.biaoji_1.30.12_iphoneos-arm64e.deb
+Size: 50828
+MD5sum: 728fa008a8835afe40722cf53ec63c6b
+SHA256: 24cf0d4e416034e5c5d58c63dc1028946a56293fcf4f97bfceade227cf6c01a3
+Package: cn.wxfix.miyouhelper
+Name: MiYouFix 微信助手修复
+Version: 1.12.0-+debug
+Architecture: iphoneos-arm64e
+Description: 微信闪退兜底修复件（v1.12）：①未知方法全局兜底（跳过"自己实现 forwardInvocation: 的转发型类"），防 PKC 等插件把微信搞崩；②**启动看门狗豁免**——微信冷启动时被 5 个插件拖过 20 秒会被系统以 0x8badf00d 杀掉（近 30 天 21 次），现在启动早期替微信调用系统"宣布启动完成"入口，不再被杀；日志**默认关闭**（零磁盘 I/O、零栈采样），抓现场时创建 /var/mobile/Documents/miyoufix_log 并重启微信即开启；逃生开关 /var/mobile/Documents/miyoufix_nowl 可单独关掉②。纯本地、零网络、零 UI、无常驻。
+Maintainer: Hermes
+Author: 傘
+Section: roothide插件
+Depends: ellekit
+Installed-Size: 16
+Filename: pool/cn.wxfix.miyouhelper_1.12.0-+debug_iphoneos-arm64e.deb
+Size: 16434
+MD5sum: 469ce5e571b63746826e96120e88e70d
+SHA256: 9ae1f2a98b47199b6ff7658a242172539856776d4574f13d53cf6369de9e9486
+Package: com.example.qqfloatball
+Name: QQFloatBall
+Version: 1.4.3
+Architecture: iphoneos-arm64e
+Description: QQFloatBall 1.6.6 一键自动任务(日签卡/加好友/金币兑换 HTTP直调)+0x9172状态回查
+Maintainer: 傘
+Author: 小伙子
+Section: Tweaks
+Depends: mobilesubstrate
+Installed-Size: 48
+Filename: pool/com.example.qqfloatball_1.4.3_iphoneos-arm64e.deb
+Size: 49720
+MD5sum: 63abdbb084ae6ebbf266676b298a86de
+SHA256: 70fae3493d1619c1682743e8b495e1d59df031e7d3e70a394036f95ee049f82a
+Package: com.hermes.qqcarplus
+Name: QQCarPlus
+Version: 39.2
+Architecture: iphoneos-arm64e
+Description: 给 QQ音乐 车机播放页加功能（倍速 / 快退快进）
+Maintainer: sugiuta
+Author: sugiuta
+Section: Tweaks
+Depends: mobilesubstrate
+Installed-Size: 123
+Filename: pool/com.hermes.qqcarplus_39.2_iphoneos-arm64e.deb
+Size: 126806
+MD5sum: 2629e34ca7cd05cdc842c82c1d0d0309
+SHA256: c725111fd88befc246f6517503b850ccf5ea59587d1e2ef60c6cf3386993f542
+Package: com.hermes.settingsjump
+Name: SettingsJump 设置精确跳转
+Version: 3.0
+Architecture: iphoneos-arm64e
+Description: 小伙子 · 傘 —— 设置「精确跳转」修复（⚠ 实验版：接管跳转未稳定，部分场景会让设置 App 闪退，仅供测试）
+Maintainer: 小伙子
+Author: 小伙子
+Section: roothide插件
+Depends: mobilesubstrate
+Installed-Size: 13
+Filename: pool/com.hermes.settingsjump_3.0_iphoneos-arm64e.deb
+Size: 13704
+MD5sum: 16038e5837820fd15058ee12b6ee55ac
+SHA256: 8295076fb48a96c859c91fc90ef553b17f751c2bfd6761b741270d45f5d26142
+Package: com.jiang.jiangtheos
+Name: JiangTheos
+Version: 1.0.0-10+debug
+Architecture: iphoneos-arm64e
+Description: 原创 on-device Theos 图形化开发工具：一键创建、编辑、编译、安装 tweak/应用/库/工具项目
+Maintainer: jiang
+Author: jiang
+Section: Development
+Depends: mobilesubstrate
+Installed-Size: 81
+Filename: pool/com.jiang.jiangtheos_1.0.0-10+debug_iphoneos-arm64e.deb
+Size: 83898
+MD5sum: 65521d8ba56f8ae93164105ba93863fd
+SHA256: 0f5dafdb65db0244ae931109ae943867e631d2a978f09d687960430d4d9f5dc1
 Package: com.local.camhide
 Name: camhide
-Version: 1.0.0
+Version: 1.0.0-+debug
 Architecture: iphoneos-arm64e
 Description: hide status bar privacy indicators (mic/camera dots) on demand
 Maintainer: local
@@ -8,22 +106,35 @@ Author: local
 Section: Tweaks
 Depends: mobilesubstrate
 Installed-Size: 4
-Filename: pool/com.local.camhide_1.0.0_iphoneos-arm64e.deb
+Filename: pool/com.local.camhide_1.0.0-+debug_iphoneos-arm64e.deb
 Size: 4540
 MD5sum: c729bd2e52c4367dabbdb766b66a42b1
 SHA256: cd3234944a6ec041a073eae8d5a0de71f63b8ec98c5903b2408e4ea332ce0846
-
-Package: cn.hermes.iflyskin
-Name: 键盘皮肤工作室
-Version: 3.9.0
+Package: com.qqlevel.assistant
+Name: QQ等级助手
+Version: 1.0.1-3
 Architecture: iphoneos-arm64e
-Description: 讯飞输入法键盘皮肤编辑器 v1.1（roothide）。手机上直接看/改皮肤：皮肤列表（标出当前键盘正在用的那个）→ 外观样式按中文含义分组（如"拼音区背景""工具栏按钮颜色""气泡"），点着改颜色（取色器/十六进制）；图片映射；文本模式可直接编辑整份 ini；所有改动前自动备份 .bak_时间戳。纯本地、零网络、零常驻。入口：讯飞输入法里的悬浮小球「肤」。
-Maintainer: Hermes
-Author: 傘
-Section: roothide插件
-Depends: ellekit
-Installed-Size: 113
-Filename: pool/cn.hermes.iflyskin_3.4.0_iphoneos-arm64e.deb
-Size: 116156
-MD5sum: c94738aeb9d51db6a0edc1bf0705c411
-SHA256: d82a2d7e3166f3d4aec5bdf70d328cb7f965499b360fbba6bf1e531fe0f5b257
+Description: QQ等级任务一键助手（网页web会话直调，模拟安卓HTTP方案）
+Maintainer: local
+Author: local
+Section: Utilities
+Depends: mobilesubstrate
+Installed-Size: 131
+Filename: pool/com.qqlevel.assistant_1.0.1-3_iphoneos-arm64e.deb
+Size: 134322
+MD5sum: 73dd8053efe606a39b165278c7782ee5
+SHA256: 8ac238cdeea8ac63acbe015f9ab0ae82dbd49268e761c88c041335e5bc1f868c
+Package: com.sugiuta.sumusicwidget
+Name: SUMusicWidget
+Version: 1.1-+debug
+Architecture: iphoneos-arm64
+Description: An awesome Airaw Widgets extension!
+Maintainer: sugiuta
+Author: sugiuta
+Section: Addons
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 45
+Filename: pool/com.sugiuta.sumusicwidget_1.1-+debug_iphoneos-arm64.deb
+Size: 46346
+MD5sum: a612b49a65b1b27a9c46d163a2ca735f
+SHA256: 6f2c9e3f5397b0d9583778527956e8dcbef7aa0aa7321c43ce17d847ba50af65
