@@ -1,17 +1,16 @@
 Package: cn.hermes.iflyskin
 Name: IflySkin
-Version: 4.5.0-+debug
+Version: 4.5.1
 Architecture: iphoneos-arm64e
 Description: 讯飞输入法皮肤与键盘布局可视化编辑器（外观颜色/字体/图片 + 键位布局）
 Maintainer: Hermes
 Author: Hermes
 Section: Tweaks
 Depends: mobilesubstrate
-Installed-Size: 397
-Filename: pool/cn.hermes.iflyskin_4.5.0-+debug_iphoneos-arm64e.deb
-Size: 124404
-MD5sum: 06ca1031f6255ff4a9fd1d1b92ed151b
-SHA256: 69ce27e63bf359350bd147ef3a6da663b657809d0cb58bd2445eb7d243b44b1f
+Filename: pool/cn.hermes.iflyskin_4.5.1_iphoneos-arm64e.deb
+Size: 127980
+MD5sum: 99b65b9e79865eb683d38991d678e634
+SHA256: 25e065863db6547ac5195fabbbcaf87a256ac724b7b32980b44735147442580a
 
 Package: cn.llld.biaoji
 Name: 截图标记
