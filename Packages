@@ -87,6 +87,20 @@ Size: 13704
 MD5sum: 16038e5837820fd15058ee12b6ee55ac
 SHA256: 8295076fb48a96c859c91fc90ef553b17f751c2bfd6761b741270d45f5d26142
 
+Package: com.hermes.syskit
+Name: 系统优化
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Description: 小伙子 · 傘 —— 系统优化（拍照静音：相机/微信/抖音等全部 App 拍照无声，与静音开关无关；模块化设计，后续功能按需追加）
+Maintainer: 小伙子
+Author: 小伙子
+Section: Tweaks
+Depends: ellekit
+Filename: pool/com.hermes.syskit_1.0.0_iphoneos-arm64e.deb
+Size: 6008
+MD5sum: d128d5097b3330b405127f8e4088f39c
+SHA256: e2660b773931a8096b3df39bc7c8636bbb8dc99a845a0306b14eeca37a432ead
+
 Package: com.jiang.jiangtheos
 Name: JiangTheos
 Version: 1.0.0-10+debug
